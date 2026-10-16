@@ -21,4 +21,4 @@ Now I'm building my technical skills and documenting every project here.
 - Former professional rugby player
 
 ### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
+[LinkedIn](https://www.linkedin.com/in/jerónimo-gómez-vara/)
