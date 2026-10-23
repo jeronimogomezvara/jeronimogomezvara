@@ -17,7 +17,7 @@ Now I'm building my technical skills and documenting every project here, with th
 *Next up: Tableau dashboard and Python automation.*
 
 ### 🤖 How I work
-I use AI (Claude) as a study partner and coding assistant: it helps me draft queries, explain errors and review my work. I make sure I understand the logic behind every step, I check each result against the data and I can explain how I got to every number. I'm also practicing SQL on my own to write queries without help.
+I use AI as a study partner and coding assistant: it helps me draft queries, explain errors and review my work. I make sure I understand the logic behind every step, I check each result against the data and I can explain how I got to every number. I'm also practicing SQL on my own to write queries.
 
 ### 🌎 About me
 - Based in Rosario, Argentina
